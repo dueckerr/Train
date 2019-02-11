@@ -3,12 +3,12 @@
 // initalize firebase
 
 var config = {
-    apiKey: "AIzaSyA4D4Ec-ohoWGua0Ii3IT65lxqZkkBmd2U",
-    authDomain: "trains-c11ca.firebaseapp.com",
-    databaseURL: "https://trains-c11ca.firebaseio.com",
-    projectId: "trains-c11ca",
-    storageBucket: "trains-c11ca.appspot.com",
-    messagingSenderId: "691972253249"
+    apiKey: "AIzaSyALVuYa7jMH3rgyqmTHPTAhQ3JOBuMa-yQ",
+    authDomain: "trains-81160.firebaseapp.com",
+    databaseURL: "https://trains-81160.firebaseio.com",
+    projectId: "trains-81160",
+    storageBucket: "trains-81160.appspot.com",
+    messagingSenderId: "688226611925"
 };
 firebase.initializeApp(config);
 
